@@ -9,7 +9,8 @@
 #               Jean-Marc : Coded by Jean-Marc Romain
 #
 # Note : if you run the code make sure to update the upi key with your personal key, 
-# the one provided by in code is no longer active.
+# the one provided by in code is no longer active. Visit https://api.webscrapingapi.com, 
+# create an account to get your api-key.
 
 # the data colected has been saved in a csv file that you can find in the Data folder 
 
