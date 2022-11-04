@@ -1,7 +1,8 @@
 # I would like to build a code that gievs us the gps coordinate based on a post address such as it is shown on thata website 
 # https://www.geeksforgeeks.org/how-to-get-geolocation-in-python/
 
-# module to install - at the terminal :  pip3 insitall geopy
+# module to install - at the terminal :  pip3 insitall geopy 
+# pip install geocoder
 
 # importing geopy library
 from geopy.geocoders import Nominatim
