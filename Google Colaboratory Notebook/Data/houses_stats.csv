@@ -1,6 +1,6 @@
-Neighbourhood,number of houses,mean price ,mean price global,crime committed
-Hazelwood,51,442653.88,679327,2173
-Nortwest,12,1164162.54,679327,1850
-Lents,60,431067.32,679327,1240
-Crestwood,7,552900,679327,17
-Arnold Creeek,7,927400,679327,11
+Neighbourhood,number of houses,mean price ,mean price global,crime committed,houses sold prices in 2022
+Hazelwood,51,442653.88,679327,2173,440000
+Nortwest,12,1164162.54,679327,1850,720000
+Lents,60,431067.32,679327,1240,404000
+Crestwood,7,552900,679327,17,582000
+Arnold Creeek,7,927400,679327,11,847500
