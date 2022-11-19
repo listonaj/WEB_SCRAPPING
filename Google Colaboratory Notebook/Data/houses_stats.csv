@@ -1,6 +1,6 @@
-Neighbourhood,number of houses,mean price ,mean price global
-Hazelwood,51,442653.88,679327
-Nortwest,12,1164162.54,679327
-Lents,60,431067.32,679327
-Crestwood,7,552900,679327
-Arnold Creeek,7,927400,679327
+Neighbourhood,number of houses,mean price ,mean price global,crime committed
+Hazelwood,51,442653.88,679327,2173
+Nortwest,12,1164162.54,679327,1850
+Lents,60,431067.32,679327,1240
+Crestwood,7,552900,679327,17
+Arnold Creeek,7,927400,679327,11
